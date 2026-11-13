@@ -1,0 +1,7 @@
+{
+  "name": "iseeu",
+  "owner": { "name": "Vibe Gifts" },
+  "plugins": [
+    { "name": "iseeu", "source": "./", "description": "Segundo cérebro e consultor pessoal, montados pelo que você faz." }
+  ]
+}

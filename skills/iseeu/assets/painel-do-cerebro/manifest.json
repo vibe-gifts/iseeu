@@ -1,0 +1,9 @@
+{
+  "id": "painel-do-cerebro",
+  "name": "Painel do Cérebro",
+  "version": "0.4.0",
+  "minAppVersion": "1.4.0",
+  "description": "Resumo do segundo cérebro numa barra lateral: gráficos dos perfis, inbox, goal, termômetro, ideias mais fortes e últimos diários.",
+  "author": "skill iseeu",
+  "isDesktopOnly": false
+}
