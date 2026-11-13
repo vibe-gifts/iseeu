@@ -1,7 +1,8 @@
 {
   "name": "iseeu",
   "owner": { "name": "Vibe Gifts" },
+  "description": "iseeu: segundo cérebro e consultor pessoal, montados pelo que você faz.",
   "plugins": [
-    { "name": "iseeu", "source": "./", "description": "Segundo cérebro e consultor pessoal, montados pelo que você faz." }
+    { "name": "iseeu", "source": "./", "author": { "name": "Taian Carvalho" }, "description": "Segundo cérebro e consultor pessoal, montados pelo que você faz." }
   ]
 }
