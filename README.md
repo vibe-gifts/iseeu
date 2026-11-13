@@ -1,5 +1,7 @@
 # iseeu
 
+**Português** · [English](README.en.md) · [Español](README.es.md)
+
 **Um segundo cérebro que te conhece pelo que você faz, e um consultor que sabe te coordenar.**
 
 Se lê "I see eu": eu me vejo. Em inglês e em português ao mesmo tempo, porque é isso que ele faz: te mostra quem você é pelos fatos.
@@ -42,7 +44,7 @@ Ele conduz o resto.
 
 - O [Obsidian](https://obsidian.md), que é gratuito.
 - Uma IA que grave arquivos no seu computador: o Claude Code ou o Codex. O ChatGPT do site ajuda a capturar, mas sozinho não organiza o cofre.
-- Python 3, que já vem no Mac.
+- Python 3. No Mac, na primeira vez, o sistema oferece instalar as ferramentas de desenvolvedor: aceite.
 
 ## Bom saber
 
